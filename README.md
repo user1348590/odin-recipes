@@ -1,1 +1,1 @@
-# odin-recipes
+In this project, I will be creating a collection of recipes I will store on my website.
